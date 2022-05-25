@@ -11,9 +11,9 @@ When we encounter difficult or threatening situations, such as an important job 
 
 Academic employment 
 ======
-**Postdoctoral researcher 2022-present** <br> Comparative Psychology <br> Department of Experimental Psychology <br> Heinrich Heine University Düsseldorf, Germany
+**Postdoctoral researcher 2022-present** <br> Comparative Psychology <br> Heinrich Heine University Düsseldorf, Germany
 
-**Postdoctoral researcher 2018-2022** <br> Social, Cognitive and Affective Neuroscience Unit <br> Faculty of Psychology <br> University of Vienna, Austria
+**Postdoctoral researcher 2018-2022** <br> Social, Cognitive and Affective Neuroscience Unit <br> University of Vienna, Austria
 
 Education
 ======

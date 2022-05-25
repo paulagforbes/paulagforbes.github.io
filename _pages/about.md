@@ -12,10 +12,13 @@ When we encounter difficult or threatening situations, such as an important job 
 Education
 ======
 **PhD Social Neuroscience 2018**
-Institute of Cognitive Neuroscience, University College London, UK
+
+Institute of Cognitive Neuroscience, <br> University College London, UK
 
 **MSc Cognitive Neuroscience 2014**
-Institute of Cognitive Neuroscience, University College London, UK
+
+Institute of Cognitive Neuroscience, <br> University College London, UK
 
 **BA Psychology, Philosophy and Physiology 2011**
+
 University of Oxford, UK

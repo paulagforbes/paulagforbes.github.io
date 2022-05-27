@@ -2,7 +2,7 @@
 title: "The effects of self-relevance vs. reward value on facial mimicry"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2021
 venue: 'Acta Psychologica'
 paperurl: 'https://doi.org/10.1016/j.actpsy.2020.103193'
